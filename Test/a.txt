@@ -1,6 +1,6 @@
 你好。git
 我在git （aaa）上修改啦
-		等你插入一行数据
+插入一行数据adsasdasdgasjdjasgdaksjsd
 我在git （BBB）上修改啦
-我在git hub上给你修改啦
+我在git hub（我想在gihub上给你改回来）上给你修改啦
 
