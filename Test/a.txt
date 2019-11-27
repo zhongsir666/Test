@@ -1,5 +1,4 @@
 
 AAA
-+git
 BBB
 CCC
